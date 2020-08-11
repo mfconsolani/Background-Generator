@@ -10,6 +10,16 @@ body {
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
+div {
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
+
+div input {
+    margin: 1em;
+}
+
 h1 {
     font: 600 3.5em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
