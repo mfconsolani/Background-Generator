@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;900&display=swap');
+
 body {
 	font: 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
@@ -16,6 +18,16 @@ h1 {
     letter-spacing: .5em;
     width: 100%;
 }
+
+h2 {
+    font: 600 1.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
 
 h3 {
 	font: 900 1em 'Raleway', sans-serif;
